@@ -1,0 +1,22 @@
+{
+  "name": "YoutubeAPI",
+  "version": "1.0.0",
+  "description": "Playing around with the YoutubeAPI",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sacurran/YoutubeAPI.git"
+  },
+  "author": "Stephanie Anna Curran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sacurran/YoutubeAPI/issues"
+  },
+  "homepage": "https://github.com/sacurran/YoutubeAPI",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
